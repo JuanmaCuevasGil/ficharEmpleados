@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+<root>
+  <empleado>
+    <id>1</id>
+    <nombre>Lucía</nombre>
+  </empleado>
+  <empleado>
+    <id>2</id>
+    <nombre>Fernando</nombre>
+  </empleado>
+  <empleado>
+    <id>3</id>
+    <nombre>Sergio</nombre>
+  </empleado>
+  <empleado>
+    <id>4</id>
+    <nombre>Juanma</nombre>
+  </empleado>
+  <fichaje>
+    <id>1</id>
+    <horaEntrada>2024-01-16T16:18:21.512342600</horaEntrada>
+  </fichaje>
+  <fichaje>
+    <id>2</id>
+    <horaEntrada>2024-01-16T16:26:12.692580</horaEntrada>
+    <horaSalida>2024-01-16T16:26:19.788318200</horaSalida>
+  </fichaje>
+  <fichaje>
+    <id>2</id>
+    <horaEntrada>2024-01-16T16:26:23.236970500</horaEntrada>
+    <horaSalida>2024-01-16T16:26:24.932775400</horaSalida>
+  </fichaje>
+</root>
